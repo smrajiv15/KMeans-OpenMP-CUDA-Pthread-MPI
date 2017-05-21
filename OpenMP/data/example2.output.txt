@@ -1,0 +1,6 @@
+Reading from data file: test_cases/example2_k3_m30.txt.
+Finding 3 clusters
+centers found:
+-176.25, -142.17
+172.39, 43.03
+66.01, 197.75

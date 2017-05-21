@@ -1,0 +1,8 @@
+Reading from data file: test_cases/example3_k5_m500.txt.
+Finding 5 clusters
+centers found:
+-112.85, 138.49
+120.73, 133.61
+-174.82, -45.06
+-27.18, 192.85
+-70.18, -71.77
